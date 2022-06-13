@@ -1,4 +1,4 @@
-## SQL Project : Maven Movies Database
+## SQL Project : DVD Rental Business
 
 #### SITUATION: 
 You and your Uncle Jimmy just purchased Maven Movies, a brick and mortar DVD Rental business. Uncle Jimmy put up the money, and you’re in charge of the day-to-day operations.
